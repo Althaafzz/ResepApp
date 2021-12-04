@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RecipeApp</string>
+    <string name="txt_breakfast">Sarapan</string>
+    <string name="txt_vegetarian">Vegetarian</string>
+    <string name="txt_dessert">Pencuci Mulut</string>
+    <string name="txt_seafood">Makanan Laut</string>
+    <string name="recipe_name">Garlic Butter Shrimp</string>
+    <string name="image_for_banner">Gambar untuk Banner</string>
+    <string name="txt_1_2_k">1.2 k</string>
+    <string name="txt_cooked">Dimasak</string>
+    <string name="txt_calories">Kalori</string>
+    <string name="txt_carbo">Karbo</string>
+    <string name="txt_protein">Protein</string>
+    <string name="txt_ingredients">Bahan - Bahan</string>
+    <string name="txt_directions">Petunjuk Pembuatan</string>
+    <string name="txt_recipe">Resep</string>
+    <string name="image_for_detail_recipe">Gambar Untuk Resep Detil</string>
+
+</resources>
